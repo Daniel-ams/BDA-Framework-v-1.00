@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite it as below."
+title: "Business Decision Architecture (BDA) Framework, version 1.00"
+authors:
+  - family-names: Hernandez
+    given-names: Monica M.
+    orcid: "https://orcid.org/0009-0006-3687-9530"
+  - family-names: Montero
+    given-names: Daniel A.
+    orcid: "https://orcid.org/0009-0007-9131-8557"
+version: "1.00"
+date-released: 2026-02-26
+license: CC-BY-4.0
+repository-code: "https://github.com/Daniel-ams/BDA-Framework-v-1.00"
+preferred-citation:
+  type: report
+  title: "Business Decision Architecture (BDA): A System Architecture for Decision-Making in the Age of AI"
+  authors:
+    - family-names: Hernandez
+      given-names: Monica M.
+      orcid: "https://orcid.org/0009-0006-3687-9530"
+    - family-names: Montero
+      given-names: Daniel A.
+      orcid: "https://orcid.org/0009-0007-9131-8557"
+  version: "1.00"
+  year: 2026
+  month: 2
+  publisher:
+    name: "BC-DS (Business Consultants for Digital Solutions, LLC)"
+  url: "https://github.com/Daniel-ams/BDA-Framework-v-1.00"
