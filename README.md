@@ -8,6 +8,8 @@ This repository holds the first published versions of the Business Decision Arch
 
 The current version is BDA v3.0, *Business Decision Architecture (BDA) Framework: The Discipline of Organizational Decision Governance*, 30 April 2026: [doi.org/10.5281/zenodo.19903175](https://doi.org/10.5281/zenodo.19903175).
 
+The publication history of this framework and of the papers that followed it, with the date each was first published and how to check it, is at [bcds-llc.github.io/publication-history](https://bcds-llc.github.io/publication-history/).
+
 ## The files
 
 All times are in UTC. Rockville was five hours behind UTC on these dates.
